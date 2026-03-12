@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @EgemenSaklavci
-- I'm interested in making basic 2d games. 
-I'm learning javascript and html as a hobby. 
+- Godot dev, cs student, composer. Currently making a game about a butterfly
+- 
